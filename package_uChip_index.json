@@ -12,7 +12,7 @@
       "platforms":
       [
         {
-          "name": "uChip board OTG+BUCK",
+          "name": "uChip board",
           "architecture": "samd",
           "version": "1.0.0",
           "category": "Contributed",
