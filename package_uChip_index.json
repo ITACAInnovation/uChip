@@ -12,14 +12,14 @@
       "platforms":
       [
         {
-          "name": "uChip board OTG+BUCK",
+          "name": "uChip board",
           "architecture": "samd",
-          "version": "1.0.0",
+          "version": "2.0.0",
           "category": "Contributed",
-          "url": "http://github.com/ITACAInnovation/uChip/raw/master/uChip1.0.0.zip",
-          "archiveFileName": "uChip1.0.0.zip",
-          "checksum": "SHA-256:F2D1C8C592CD8E87B02F31627A87A76AC2584F26A2E44874EC2AE4EE2D3FFEF3",
-          "size": "3972925",
+          "url": "http://github.com/ITACAInnovation/uChip/raw/master/uChip2.0.0.zip",
+          "archiveFileName": "uChip2.0.0.zip",
+          "checksum": "SHA-256:6bfa7de7a5cd47ff087a4a12bfc3ed6b7e9d37150fe31c4f825c8473de68be92",
+          "size": "4012757",
           "boards": [
     {
       "name": "uChip"
