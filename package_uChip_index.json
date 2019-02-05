@@ -18,9 +18,9 @@
           "category": "Contributed",
           "url": "http://github.com/ITACAInnovation/uChip/raw/master/uChip2.0.0.zip",
           "archiveFileName": "uChip2.0.0.zip",
-          "checksum": "SHA-256:6bfa7de7a5cd47ff087a4a12bfc3ed6b7e9d37150fe31c4f825c8473de68be92",
-          "size": "4012757",
-          "boards": [
+          "checksum": "SHA-256:f3c96c1c5da308e71488803483a2c2a5d8e0c9275a9b43b70b555081f5ab3f38",
+          "size": "4012769",
+          "boards": [  
     {
       "name": "uChip"
     },
