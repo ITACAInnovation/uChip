@@ -1,0 +1,62 @@
+{
+  "packages":
+  [
+    {
+      "name": "uChip",
+      "maintainer": "ITACA INNOVATION S.R.L.",
+      "websiteURL": "http://www.itaca-innovation.com",
+      "help":
+      {
+        "online": "http://www.arduino.cc/en/Reference/HomePage"
+      },
+      "platforms":
+      [
+        {
+          "name": "uChip board",
+          "architecture": "samd",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "url": "http://github.com/ITACAInnovation/uChip/raw/master/uChip1.0.0.zip",
+          "archiveFileName": "uChip2.0.0.zip",
+          "checksum": "SHA-256:548d58136ce800a6c5430c76b0455a621f395828ebde1ab9c22e399b15ebdd9d",
+          "size": "3972926",
+          "boards": [  
+    {
+      "name": "uChip"
+    },
+            {
+              "name": "uChipBoard"
+            }         
+          ],
+          "toolsDependencies":
+          [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "4.8.3-2014q1"
+            },
+            {
+              "packager": "arduino",
+              "name": "bossac",
+              "version": "1.6.1-arduino"
+            },
+            {
+              "packager": "arduino",
+              "name": "openocd",
+              "version": "0.9.0-arduino"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS",
+              "version": "4.0.0-atmel"
+            }
+          ]
+        }
+      
+	  ],
+      "tools":
+      [
+      ]
+    }
+  ]
+}
