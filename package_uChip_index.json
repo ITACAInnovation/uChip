@@ -59,15 +59,15 @@
 				}
 			  ]
 			},
-            {
+                        {
 			  "name": "uChip SAMD Boards",
 			  "architecture": "samd",
 			  "version": "1.0.1",
 			  "category": "ItacaInnovation",
 			  "url": "http://github.com/ITACAInnovation/uChip/raw/master/uChip1.0.1.zip",
 			  "archiveFileName": "uChip1.0.1.zip",
-			  "checksum": "SHA-256:ac41d99a2ddd3fa13013d7c3a3c87377eafd1373bccd62fd6aa30bfc82d93dbb",
-			  "size": "3500549",
+			  "checksum": "SHA-256:8c03a562ac9b79fc63f9346362db08fdf18de6bcc159ecfdbe0440e37f96c96e",
+			  "size": "3500543",
 			  "help": {
 				"online": "http://github.com/ITACAInnovation/uChip"
 			  },
