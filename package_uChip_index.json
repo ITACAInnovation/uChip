@@ -394,6 +394,54 @@
 				  "version": "1.2.0"
 				}
 			  ]
+			},
+			{
+			  "name": "uChip SAMD Boards",
+			  "architecture": "samd",
+			  "version": "1.0.8",
+			  "category": "ItacaInnovation",
+			  "url": "http://github.com/ITACAInnovation/uChip/raw/master/uChip1.0.8.zip",
+			  "archiveFileName": "uChip1.0.8.zip",
+			  "checksum": "SHA-256:0BA667EC2118AFD9022ADFE6FEE8BE1464C732BBD990A49E8458A4FBF0F1937A",
+			  "size": "3528302",
+			  "help": {
+				"online": "http://github.com/ITACAInnovation/uChip"
+			  },
+			  "boards": [
+				{
+				  "name": "uChip prototype"
+				},
+				{
+				  "name": "uChip"
+				}
+			  ],
+			  "toolsDependencies": [
+				{
+				  "packager": "arduino",
+				  "name": "arm-none-eabi-gcc",
+				  "version": "4.8.3-2014q1"
+				},
+				{
+				  "packager": "arduino",
+				  "name": "bossac",
+				  "version": "1.7.0-arduino3"
+				},
+				{
+				  "packager": "arduino",
+				  "name": "openocd",
+				  "version": "0.9.0-arduino"
+				},
+				{
+				  "packager": "arduino",
+				  "name": "CMSIS",
+				  "version": "4.5.0"
+				},
+				{
+				  "packager": "arduino",
+				  "name": "CMSIS-Atmel",
+				  "version": "1.2.0"
+				}
+			  ]
 			}
 		],
 		"tools":[]
